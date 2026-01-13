@@ -1,5 +1,8 @@
 # Milestone 4: Dashboard for Insights
 
+### Note:
+The original dataset used in Milestone 1 had 3000 users' data which has been reduced to a dataset of 50 users in Milestone 4 (stored in data folder) for fast processing.
+
 ## Objective
 The objective of this milestone is to develop an interactive dashboard for real-time visualization and detection of health anomalies using fitness device data.
 
